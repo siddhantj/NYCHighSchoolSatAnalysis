@@ -1,6 +1,6 @@
-This project aims to analyze the SAT score of high schools in NYC. Using the data below, it tries to establish how SAT score varies with Gender, racial background, class_size, neighborhood etc. Following are the list of files (available in **schools** ) used for analysis:
+This project aims to analyze the SAT score of high schools in NYC. Using the data below, it tries to establish how SAT score varies with Gender, racial background, class_size, neighborhood etc. Following are the list of files (available in **schools** directory ) used for analysis:
 
-..* ap_2010.csv: [Data on AP test result(year 2010)](https://data.cityofnewyork.us/Education/2010-AP-College-Board-School-Level-Results/itfs-ms3e)
+1) ap_2010.csv: [Data on AP test result(year 2010)](https://data.cityofnewyork.us/Education/2010-AP-College-Board-School-Level-Results/itfs-ms3e)
 2) class_size.csv: [Data on average class size per school (year 2010-2011)](https://data.cityofnewyork.us/Education/2010-2011-Class-Size-School-level-detail/urz7-pzb3)
 3) demographics.csv: [2006 - 2012 School Demographics and Accountability Snapshot](https://data.cityofnewyork.us/Education/2006-2012-School-Demographics-and-Accountability-S/ihfw-zy9j)
 4) graduation.csv: [2005-2010 Graduation Outcomes - School Level](https://data.cityofnewyork.us/Education/2005-2010-Graduation-Outcomes-School-Level/vh2h-md7a)
